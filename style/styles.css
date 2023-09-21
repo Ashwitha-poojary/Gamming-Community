@@ -1,0 +1,7 @@
+body{
+    background-image:url("../img/game22.jpg") ;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    font-family:  Verdana, Geneva ,sans-serif;
+    background-size: cover;
+}
